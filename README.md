@@ -8,6 +8,6 @@
 
 ##Installation
 
-  git clone https://github.com/Exxaxion/projet-wild
-  cd projet-wild
-  cat READ.md
+    git clone https://github.com/Exxaxion/projet-wild
+    cd projet-wild
+    cat README.md
